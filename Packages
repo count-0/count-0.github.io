@@ -4,7 +4,7 @@ Maintainer: iTweakiOS <itweakios@yahoo.com.com>
 Architecture: iphoneos-arm
 Version: 1.0
 Depends: mobilesubstrate, com.itweakios.ccpatch10
-Filename: debs/com.iTweakiOS.CarrierCrackTMobileUS56S.deb/
+Filename: debs/com.iTweakiOS.CarrierCrackTMobileUS56S.deb
 Size: 61 KB
 MD5sum: a5379b1de007b4c6f2f572f364ce7760
 SHA1: 9e58ae1687ed6e68aaf634ccf96440a39fea1ff6
@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Version: 3.0
 Pre-Depends: firmware (>= 7.0)
 Depends: mobilesubstrate
-Filename: debs/com.itweakios.ccpatch10.deb/
+Filename: debs/com.itweakios.ccpatch10.deb
 Size: 12 KB 
 MD5sum: e37eb7720f1dedac0609271c1d182967
 SHA1: 1ae5313e7bbdf222d7ddc2f6aae7955d8ce1a7b9
