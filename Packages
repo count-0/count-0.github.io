@@ -1,0 +1,31 @@
+Package: com.iTweakiOS.CarrierCrackTMobileUS56S
+Section: Tweaks
+Maintainer: iTweakiOS <itweakios@yahoo.com.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate, com.itweakios.ccpatch10
+Filename: debs/com.iTweakiOS.CarrierCrackTMobileUS56S.deb/
+Size: 61 KB
+MD5sum: a5379b1de007b4c6f2f572f364ce7760
+SHA1: 9e58ae1687ed6e68aaf634ccf96440a39fea1ff6
+SHA256: 5c06f50212ae8f1893c1a98066b566906a5614bb74cb4ee0c80922213d910d5d
+Homepage: http://www.iTweakiOS.com/
+Description: Enables hidden features, introduces new features, amplifies cell signal, amplifies data speeds and more!
+Name: CarrierCrack - T-Mobile USA 6/6+/6s/6s+
+Author: joe012594 <joe@itweakios.com>
+
+Package: com.itweakios.ccpatch10
+Section: Tweaks
+Maintainer: iTweakiOS <joe@itweakios.com>
+Architecture: iphoneos-arm
+Version: 3.0
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate
+Filename: debs/com.itweakios.ccpatch10.deb/
+Size: 12 KB 
+MD5sum: e37eb7720f1dedac0609271c1d182967
+SHA1: 1ae5313e7bbdf222d7ddc2f6aae7955d8ce1a7b9
+SHA256: 22d1674b516061cc3da7db557aede9bfca4a46ba59fee7f01b26afc5cdd4fe87
+Description: Patches CommCenter to allow carrier bundle editing and customization.
+Name: CommCenter patch for iOS 7/8/9/10
+Author: joe012594 <joe@itweakios.com>
