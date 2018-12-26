@@ -27,6 +27,7 @@ Size: 12 KB
 MD5sum: e37eb7720f1dedac0609271c1d182967
 SHA1: 1ae5313e7bbdf222d7ddc2f6aae7955d8ce1a7b9
 SHA256: 22d1674b516061cc3da7db557aede9bfca4a46ba59fee7f01b26afc5cdd4fe87
+SHA512: 6775b80e4d54deb4f104064b89835da8b15ecc91583b7d231652d3a458bbe9252649ad54460803964a4127f77dc22805bc78728c35f1bfe0ea648ba4d8958ed5
 Description: Patches CommCenter to allow carrier bundle editing and customization.
 Name: CommCenter patch for iOS 7/8/9/10
 Author: joe012594 <joe@itweakios.com>
