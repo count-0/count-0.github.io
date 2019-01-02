@@ -14,3 +14,28 @@ SHA512: 6775b80e4d54deb4f104064b89835da8b15ecc91583b7d231652d3a458bbe9252649ad54
 Description: Patches CommCenter to allow carrier bundle editing and customization.
 Name: CommCenter patch for iOS 7/8/9/10
 Author: joe012594 <joe@itweakios.com>
+
+Package: com.thecomputerwhisperer.taptapfolderxi
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.0
+Depends: firmware (>= 4.0), mobilesubstrate, preferenceloader (>= 2.2.2)
+Filename: debs/com.thecomputerwhisperer.taptapfolderxi_1.0.0_iphoneos-arm.deb
+Name: TapTapFolderXI
+Description: Double tap action for folders
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: TheComputerWhisperer
+Installed-Size: 96
+
+Package: ru.domo.cocoatop64
+Name: CocoaTop
+Depends: 
+Conflicts: ru.domo.cocoatop
+Architecture: iphoneos-arm
+Description: Process Viewer for iOS GUI (64-bit)
+Maintainer: Domo
+Author: Domo
+Section: Utilities
+Version: 2.0.2-1+debug
+Installed-Size: 742
