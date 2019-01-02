@@ -1,21 +1,3 @@
-/*Package: com.iTweakiOS.CarrierCrackTMobileUS56S
-Section: Tweaks
-Maintainer: iTweakiOS <itweakios@yahoo.com.com>
-Architecture: iphoneos-arm
-Version: 1.0
-Depends: mobilesubstrate, com.itweakios.ccpatch10
-Filename: debs/com.iTweakiOS.CarrierCrackTMobileUS56S.deb
-Size: 60344
-MD5sum: a5379b1de007b4c6f2f572f364ce7760
-SHA1: 9e58ae1687ed6e68aaf634ccf96440a39fea1ff6
-SHA256: 5c06f50212ae8f1893c1a98066b566906a5614bb74cb4ee0c80922213d910d5d
-SHA512: 9c66e956ecf6f655912bdc72359605edef3a1068c3cdcd2fdbb00920f36f5162d1a063783494b3f074f03870a3f6f15522a399ef9cded6c41add8fdb317b011a
-Homepage: http://www.iTweakiOS.com/
-Description: Enables hidden features, introduces new features, amplifies cell signal, amplifies data speeds and more!
-Name: CarrierCrack - T-Mobile USA 6/6+/6s/6s+
-Author: joe012594 <joe@itweakios.com>
-*/
-
 Package: com.itweakios.ccpatch10
 Section: Tweaks
 Maintainer: iTweakiOS <joe@itweakios.com>
