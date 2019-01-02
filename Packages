@@ -1,4 +1,4 @@
-Package: com.iTweakiOS.CarrierCrackTMobileUS56S
+/*Package: com.iTweakiOS.CarrierCrackTMobileUS56S
 Section: Tweaks
 Maintainer: iTweakiOS <itweakios@yahoo.com.com>
 Architecture: iphoneos-arm
@@ -14,6 +14,7 @@ Homepage: http://www.iTweakiOS.com/
 Description: Enables hidden features, introduces new features, amplifies cell signal, amplifies data speeds and more!
 Name: CarrierCrack - T-Mobile USA 6/6+/6s/6s+
 Author: joe012594 <joe@itweakios.com>
+*/
 
 Package: com.itweakios.ccpatch10
 Section: Tweaks
